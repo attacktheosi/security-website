@@ -1,1 +1,1 @@
-Security style landing page created using tailwindcss, fontawesome, and unsplash graphics.
+Security style landing page created using html, tailwindcss, fontawesome, and unsplash graphics.
